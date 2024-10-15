@@ -1,1 +1,1 @@
-error app
+app a master
